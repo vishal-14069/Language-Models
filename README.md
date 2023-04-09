@@ -1,7 +1,7 @@
 # Language-Models
 
 
-#### Comparison of N-gram, Good Turing and Kneser-Ney language models to Recurrent Neural Networks by evaluating the perplexity of the language models
+### Comparison of N-gram, Good Turing and Kneser-Ney language models to Recurrent Neural Networks by evaluating the perplexity of the language models
 
 #### - N-gram, Good Turing and Kneser-Ney Language Models are statistical language modeling techniques used for prediction of word sequences using probability
 
@@ -24,13 +24,13 @@
 #### Learn More: Recurrent Neural Networks (RNNs)Towards Data Sciencehttps://towardsdatascience.com › recurrent-neural-net...
 
 
-#### Concept of Perplexity
+### Concept of Perplexity
 
 #### - Perplexity is an intrinsic way of evaluating a language model by quantifying how well it can predict a given sequence of words
 
 #### Learn More: Perplexity in Language Models. Evaluating ...Towards Data Sciencehttps://towardsdatascience.com › perplexity-in-langua...
 
-#### Details About the RNN Language Model:
+### Details About the RNN Language Model:
 
 #### - Input words are converted into word embeddings and then fed to the RNN Model
 #### - Vocab Size is the number of unique words in the text corpus
